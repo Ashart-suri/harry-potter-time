@@ -1,0 +1,40 @@
+html {
+background: rgb(180, 116, 116);
+ rgba(0,212,255,1) 100%);
+a{
+  color: #002042;
+}
+h1{
+ padding: 29px;
+
+}
+
+ p{border: 2px solid #b8f1ff }
+
+
+@keyframes happy{
+
+
+
+  0%{
+tranform: sacle(1)
+ }
+ 0%{
+   tranform: sacle(5)
+ }
+0%{
+  tranform: sacle(1)
+}
+  
+}
+  
+  
+.sad{
+display: flex;
+flex-direction:row;
+}
+  
+
+
+
+
